@@ -51,13 +51,13 @@ class serverActions extends sfActions
     $page = $request->getParameter('page', 1);
     if($page > 1)
     {
-    $this->getResponse()->prependTitle(sprintf('Serveurs %s - page %d', $this->game->getName(), $page));
-    $this->getResponse()->prependDescription(sprintf('Retrouvez la liste des serveurs %s - page %d', $this->game->getName(), $page));
+    $this->getResponse()->prependTitle(sprintf('Serveurs de jeux %s - page %d', $this->game->getName(), $page));
+    $this->getResponse()->prependDescription(sprintf('Retrouvez la liste des serveurs de jeux monitorés du jeu %s - page %d', $this->game->getName(), $page));
     }
     else
     {
-    $this->getResponse()->prependTitle(sprintf('Serveurs %s', $this->game->getName()));
-    $this->getResponse()->prependDescription(sprintf('Retrouvez la liste des serveurs %s', $this->game->getName()));
+    $this->getResponse()->prependTitle(sprintf('Serveurs de jeux %s', $this->game->getName()));
+    $this->getResponse()->prependDescription(sprintf('Retrouvez la liste des serveurs de jeux monitorés du jeu %s', $this->game->getName()));
     }
   }
 
