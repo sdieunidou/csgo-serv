@@ -30,26 +30,6 @@
       Vous pouvez aussi bénéficiez d'un serveur status pour votre site web, vous trouverez plus d'informations en bas de la page.
     </p>
 
-    <?php if($server->game_id == 1): ?>
-     <h2><a style="color: #277AF5" href="http://www.mtxserv.fr" title="serveur css">Location serveur css</a></h2>
-      <p>Si vous aussi vous recherchez un prestataire de qualité pour votre <strong>serveur de jeux counter-strike source</strong>, alors n'hésitez pas ! Rendez vous sur le site de notre partenaire, l'association mysTix et son service mTxServ.</p>
-      <p style="margin-top: 10px;">mTxServ à été décerné du label qualité qualité par l'association Gamer Certified.</p>
-      <p style="text-align: center;margin-top: 15px;"><a href="http://www.mtxserv.fr" title="location serveur css"><img alt="location serveur css" src="http://www.dodfrance.com/images/partenaires/logo_mtxserv.png" /></a></p>
-    <?php endif; ?>
-    <?php if($server->game_id == 2): ?>
-     <h2>Location serveur dods</h2>
-      <p>Si vous aussi vous recherchez un prestataire de qualité pour votre <strong> serveur de jeux day of defeat source</strong>, alors n'hésitez pas ! Rendez vous sur le site de notre partenaire, l'association mysTix et son service mTxServ.</p>
-      <p style="margin-top: 10px;">mTxServ à été décerné du label qualité qualité par l'association Gamer Certified.</p>
-      <p style="text-align: center; margi-top: 15px;"><a href="http://www.mtxserv.fr" title="location serveur css"><img alt="location serveur css" src="http://www.dodfrance.com/images/partenaires/logo_mtxserv.png" /></a></p>
-    <?php endif; ?>
-    <?php if($server->game_id == 3): ?>
-     <h2>Location serveur tf2</h2>
-      <p>Si vous aussi vous recherchez un prestataire de qualité pour votre <strong>serveur de jeux team fortress 2</strong>, alors n'hésitez pas ! Rendez vous sur le site de notre partenaire, l'association mysTix et son service mTxServ.</p>
-      <p style="margin-top: 10px;">mTxServ  �é été décerné du label qualité qualité par l'association Gamer Certified.</p>
-      <p style="text-align: center; margin-top: 15px;"><a href="http://www.mtxserv.fr" title="location serveur css"><img alt="location serveur css" src="http://www.dodfrance.com/images/partenaires/logo_mtxserv.png" /></a></p>
-    <?php endif; ?>
-
-
     <h2>Serveur monitor</h2>
 
     <?php if(!$results['server']['gq_online']): ?>
@@ -61,6 +41,7 @@
         <th><strong>Adresse:</strong></th>
         <td><?php echo $server->getIp() ?>:<?php echo $server->getPort() ?></td>
       </tr>
+      <?php if($server->country): ?>
      <tr>
       <th><strong>Localisation:</strong></th>
       <td><?php echo $server->country ?></td>
@@ -69,6 +50,7 @@
       <th><strong>Prestataire:</strong></th>
       <td><?php echo $server->isp ?></td>
      </tr>
+     <?php endif; ?>
       <tr>
         <th><strong>Jeu:</strong></th>
         <td><?php echo $server->getGame()->getName() ?></td>
