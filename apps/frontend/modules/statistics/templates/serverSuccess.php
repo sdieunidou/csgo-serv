@@ -31,7 +31,7 @@ $(document).ready(function() {
          x: -20 //center
       },
       subtitle: {
-         text: 'Source: Jeux-Steam.fr',
+         text: 'Source: CSGo-Serv.fr',
          x: -20
       },
       xAxis: {
@@ -86,7 +86,7 @@ $(document).ready(function() {
          x: -20 //center
       },
       subtitle: {
-         text: 'Source: Jeux-Steam.fr',
+         text: 'Source: CSGO-Serv.fr',
          x: -20
       },
       xAxis: {
@@ -120,17 +120,12 @@ $(document).ready(function() {
          name: 'Serveurs css',
          data: <?php echo $sf_data->getRaw('calendar')->getDataServeurGame(1) ?>
       },{
-         name: 'Serveurs dods',
+         name: 'Serveurs cs:go',
          data: <?php echo $sf_data->getRaw('calendar')->getDataServeurGame(2) ?>
-      },{
-         name: 'Serveurs tf2',
-         data: <?php echo $sf_data->getRaw('calendar')->getDataServeurGame(3) ?>
       }],
       credits: {
          enabled: false
       }
    });
-
-
 });
 </script>
