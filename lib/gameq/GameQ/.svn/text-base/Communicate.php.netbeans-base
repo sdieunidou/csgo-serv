@@ -130,7 +130,7 @@ class GameQ_Communicate
      */
     private function write($socket, $packet)
     {
-        @fwrite($socket, $packet);
+        fwrite($socket, $packet);
     }
 
     /**
