@@ -1,0 +1,19 @@
+dev:
+  doctrine:
+    param:
+      classname: DebugPDO
+test:
+  doctrine:
+    param:
+      classname: DebugPDO
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      classname: DoctrinePDO
+      dsn: 'mysql:host=localhost;dbname=mtxserv_prod'
+      username: "root"
+      password: ""
+      encoding: utf8
+      persistent: true
+      pooling: true
