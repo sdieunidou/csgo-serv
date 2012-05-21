@@ -34,7 +34,6 @@
      <thead>
       <tr>
         <th></th>
-        <th>Serveur</th>
         <th>Hostname</th>
         <th>Adresse</th>
         <th>Joueurs</th>
@@ -46,7 +45,6 @@
     <?php foreach($pager->getResults() as $key => $server): ?>
         <tr class="<?php echo fmod($key, 2)?'pair':'impair' ?>">
           <td><?php echo image_tag(sprintf('game/%s.gif', $server->getGame()->getId()), array('alt' => $server->getGame()->getName())) ?></td>
-          <td><?php echo $server->getGame()->getClass() ?></td>
           <td><a href="<?php echo url_for('server_view', $server) ?>"><span style="color: #837C79;"><?php echo truncate_text($server->getHostname(), 60) ?></span></a></td>
           <td><?php echo $server->getAddress() ?></td>
           <td><?php echo $server->getPlayers() ?> / <?php echo $server->getMaxPlayer() ?></td>
