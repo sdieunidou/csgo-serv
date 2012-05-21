@@ -7,7 +7,7 @@
       <link rel="shortcut icon" href="/favicon.ico" />
       <?php include_stylesheets() ?>
       <?php include_javascripts() ?>
-      <meta name="google-site-verification" content="ODTg6ageh3tnxxdh19k5bKZmGULngRNQ-qdR9Da-Hio" />
+      <meta name="google-site-verification" content="45IyRlGMDnj_4vlh4oGXnsNUGnTrSMF_qCM7WztXyD0-qdR9Da-Hio" />
   </head>
 
   <body>
@@ -16,12 +16,10 @@
 
       <div id="menu">
         <ul id="onglets">
-          <li><a href="<?php echo url_for('@homepage') ?>" class="first" title="Monitoring de serveurs de jeux">Accueil</a></li>
-          <li><a href="<?php echo url_for('@server_list_game?slug=counter-strike-source') ?>" title="Serveur de jeux css">Counter-Strike: Source</a></li>
-          <li><a href="<?php echo url_for('@server_list_game?slug=team-fortress-2') ?>" title="Serveur de jeux tf2">Team Fortress 2</a></li>
-	  <li><a href="<?php echo url_for('@server_list_game?slug=day-of-defeat-source') ?>" title="Serveur de jeux dods">Day of Defeat: Source</a></li>
+          <li><a href="<?php echo url_for('@homepage') ?>" class="first" title="Serveur de jeux">Accueil</a></li>
+          <li><a href="<?php echo url_for('@server_list_game?slug=counter-strike-source') ?>" title="Serveur CSS">Counter-Strike: Source</a></li>
+          <li><a href="<?php echo url_for('@server_list_game?slug=counter-strike-go') ?>" title="Serveur CS:GO">Counter-Strike: Go</a></li>
           <li><a href="<?php echo url_for('@statistics') ?>" title="Statistiques">Statistiques</a></li>
-	  <li><a href="http://www.terra-nova-serie.fr" title="Terra Nova">Série Terra Nova</a></li>
         </ul>
       </div>
 
@@ -49,10 +47,9 @@
 
     <div id="footer">
       <a href="<?php echo url_for('@server_list_game?slug=counter-strike-source') ?>" title="serveur css">Counter-Strike: Source</a> -
-      <a href="<?php echo url_for('@server_list_game?slug=team-fortress-2') ?>" title="serveur tf2">Team Fortress 2</a> -
-      <a href="<?php echo url_for('@server_list_game?slug=day-of-defeat-source') ?>" title="serveur dods">Day of Defeat: Source</a>
+      <a href="<?php echo url_for('@server_list_game?slug=counter-strike-go') ?>" title="serveur tf2">Counter-Strike: GO</a> -
       <br />
-      © 2010 - 2011 jeux-steam.fr - Tous droits réservés
+      © 2011 - 2012 csgo-serv.fr - Tous droits réservés
     </div>
 
 </body>
