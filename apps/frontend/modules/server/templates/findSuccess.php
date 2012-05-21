@@ -1,6 +1,6 @@
 <div class="indent2">
 
-  <h1>Recherche un serveur de jeux</h1>
+  <h1>Recherchez un serveur de jeux</h1>
 
     <?php include_partial('find', array('form' => $form)) ?>
 

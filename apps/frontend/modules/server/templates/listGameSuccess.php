@@ -1,6 +1,6 @@
 <?php use_helper('Text') ?>
 <div>
-  <h1>Serveurs de jeux <?php echo $game->getName() ?></h1>
+  <h1>Serveurs <?php echo $game->getName() ?></h1>
 
     <h2>Recherchez un serveur</h2>
 
