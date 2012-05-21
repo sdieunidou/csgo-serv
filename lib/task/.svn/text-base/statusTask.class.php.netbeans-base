@@ -25,7 +25,7 @@ EOF;
 
   protected function execute($arguments = array(), $options = array())
   {
-    $conn = new PDO('mysql:dbname=csgo-serv;host=localhost' ,'csgo-serv','N4F8RN1YML');
+    $conn = new PDO('mysql:dbname=jeuxsteam;host=localhost' ,'root','11794591');
 
     $conn->query("SET NAMES 'UTF8'");
 
