@@ -1,13 +1,13 @@
 <?php use_helper('Facebook') ?>
 <div>
-    <h1>Serveurs de jeux</h1>
+    <h1>Serveurs Counter-Strike: GO / CSS</h1>
 
     <p>
-      Bienvenue sur <em>Jeux Steam</em> !!!<br /><br />
+      Bienvenue sur <em>CSGO-Serv</em> !!!<br /><br />
 
-      Vous recherchez un serveur pour jouer ? Vous souhaitez monitorer votre serveur ?! <em>Jeux Steam</em> réponds à ces besoins !<br /><br />
+      Vous recherchez un serveur pour jouer ? Vous souhaitez monitorer votre serveur ?! <em>CSGO-Serv</em> réponds à ces besoins !<br /><br />
 
-      Nous monitorons tous les serveurs européeens des jeux <strong>Counter-Strike: Source</strong>, <strong>Day of Defeat: Source</strong> et <strong>Team Fortress 2</strong>.
+      Nous monitorons tous les serveurs européeens des jeux <strong>Counter-Strike: Source</strong> et <strong>Counter-Strike: Go</strong>.
     </p>
 
     <?php if(!$sf_request->hasParameter('page')): ?>
