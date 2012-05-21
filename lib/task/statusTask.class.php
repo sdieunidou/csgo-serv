@@ -112,7 +112,7 @@ EOF;
       {
         try
         {
-          $conn = new PDO('mysql:dbname=jeuxsteam;host=localhost' ,'root','11794591');
+          $conn = new PDO('mysql:dbname=csgo-serv;host=localhost' ,'csgo-serv','N4F8RN1YML');
         }
         catch(Exception $e)
         {
