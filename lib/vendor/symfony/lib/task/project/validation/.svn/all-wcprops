@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/validation
+END
+sfDeprecatedSettingsValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedSettingsValidation.class.php
+END
+sfDeprecatedPluginsValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedPluginsValidation.class.php
+END
+sfDeprecatedHelpersValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedHelpersValidation.class.php
+END
+sfDeprecatedMethodsValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedMethodsValidation.class.php
+END
+sfDeprecatedConfigurationFilesValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedConfigurationFilesValidation.class.php
+END
+sfDeprecatedClassesValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/validation/sfDeprecatedClassesValidation.class.php
+END
+sfParameterHolderValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/validation/sfParameterHolderValidation.class.php
+END
+sfValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/task/project/validation/sfValidation.class.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/modules/sfGuardPermission/lib
+END
+sfGuardPermissionGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/modules/sfGuardPermission/lib/sfGuardPermissionGeneratorHelper.class.php
+END
+sfGuardPermissionGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/modules/sfGuardPermission/lib/sfGuardPermissionGeneratorConfiguration.class.php
+END

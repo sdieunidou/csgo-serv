@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Cache
+END
+Driver.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Cache/Driver.php
+END
+Xcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Cache/Xcache.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Cache/Array.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Cache/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Cache/Interface.php
+END
+Memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Cache/Memcache.php
+END
+Apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Cache/Apc.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Cache/Db.php
+END

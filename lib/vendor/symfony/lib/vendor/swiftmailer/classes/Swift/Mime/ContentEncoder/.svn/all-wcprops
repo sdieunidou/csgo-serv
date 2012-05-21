@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder
+END
+QpContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php
+END
+PlainContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php
+END
+Base64ContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php
+END

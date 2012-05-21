@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Parser.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Exception.php
+END
+Indexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Indexer.php
+END
+Record.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Record.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/File.php
+END
+Analyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Analyzer.php
+END
+Listener.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Listener.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Search/Query.php
+END

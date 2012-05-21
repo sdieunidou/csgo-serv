@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/bin
+END
+coverage.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/bin/coverage.php
+END
+prove.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/test/bin/prove.php
+END

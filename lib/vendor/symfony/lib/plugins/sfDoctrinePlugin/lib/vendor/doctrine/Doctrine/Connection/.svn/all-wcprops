@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection
+END
+Mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Mock.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Exception.php
+END
+Mssql.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Mssql.php
+END
+Sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Sqlite.php
+END
+Profiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Profiler.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Statement.php
+END
+Mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Mysql.php
+END
+Oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Oracle.php
+END
+Module.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Module.php
+END
+Pgsql.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Pgsql.php
+END
+UnitOfWork.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/UnitOfWork.php
+END
+Db2.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Db2.php
+END
+Common.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Connection/Common.php
+END

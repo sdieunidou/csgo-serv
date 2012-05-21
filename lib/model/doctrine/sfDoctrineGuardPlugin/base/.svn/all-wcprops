@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jeux-steam/!svn/ver/80/trunk/lib/model/doctrine/sfDoctrineGuardPlugin/base
+END
+BasesfGuardUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jeux-steam/!svn/ver/80/trunk/lib/model/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardUser.class.php
+END
+BasesfGuardForgotPassword.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jeux-steam/!svn/ver/2/trunk/lib/model/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardForgotPassword.class.php
+END
+BasesfGuardGroupPermission.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jeux-steam/!svn/ver/2/trunk/lib/model/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardGroupPermission.class.php
+END
+BasesfGuardRememberKey.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jeux-steam/!svn/ver/2/trunk/lib/model/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardRememberKey.class.php
+END
+BasesfGuardUserPermission.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jeux-steam/!svn/ver/2/trunk/lib/model/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardUserPermission.class.php
+END
+BasesfGuardPermission.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jeux-steam/!svn/ver/2/trunk/lib/model/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardPermission.class.php
+END
+BasesfGuardUserGroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jeux-steam/!svn/ver/2/trunk/lib/model/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardUserGroup.class.php
+END
+BasesfGuardGroup.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jeux-steam/!svn/ver/2/trunk/lib/model/doctrine/sfDoctrineGuardPlugin/base/BasesfGuardGroup.class.php
+END

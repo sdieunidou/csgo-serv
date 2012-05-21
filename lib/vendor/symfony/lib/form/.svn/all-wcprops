@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/form
+END
+sfForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/form/sfForm.class.php
+END
+sfFormField.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/form/sfFormField.class.php
+END
+sfFormFieldSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/form/sfFormFieldSchema.class.php
+END

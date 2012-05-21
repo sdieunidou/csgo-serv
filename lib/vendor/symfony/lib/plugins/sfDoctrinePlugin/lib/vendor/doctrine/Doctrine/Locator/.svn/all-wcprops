@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Locator
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Locator/Exception.php
+END
+Injectable.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Locator/Injectable.php
+END

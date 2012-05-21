@@ -1,0 +1,3 @@
+#*/5 * * * * cd /var/www/jeux-steam.mtxserv.fr/ && php symfony steam:status
+#10 0  * * * cd /var/www/jeux-steam.mtxserv.fr/ && php symfony steam:stats
+

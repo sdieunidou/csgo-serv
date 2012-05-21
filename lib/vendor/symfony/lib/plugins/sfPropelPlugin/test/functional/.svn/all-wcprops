@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional
+END
+pagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/pagerTest.php
+END
+i18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/i18nTest.php
+END
+formTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/formTest.php
+END
+poolingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/test/functional/poolingTest.php
+END

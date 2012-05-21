@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/Loggers
+END
+ArrayLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/Loggers/ArrayLogger.php
+END
+EchoLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/vendor/swiftmailer/classes/Swift/Plugins/Loggers/EchoLogger.php
+END

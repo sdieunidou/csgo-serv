@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/yaml
+END
+sfYamlInline.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/yaml/sfYamlInline.php
+END
+sfYaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/yaml/sfYaml.php
+END
+sfYamlDumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/yaml/sfYamlDumper.php
+END
+sfYamlParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/yaml/sfYamlParser.php
+END

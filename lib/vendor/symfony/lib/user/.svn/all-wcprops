@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/user
+END
+sfUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/user/sfUser.class.php
+END
+sfSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/user/sfSecurityUser.class.php
+END
+sfBasicSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/user/sfBasicSecurityUser.class.php
+END

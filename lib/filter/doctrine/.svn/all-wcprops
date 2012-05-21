@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/jeux-steam/!svn/ver/345/trunk/lib/filter/doctrine
+END
+StatsPlayerFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jeux-steam/!svn/ver/250/trunk/lib/filter/doctrine/StatsPlayerFormFilter.class.php
+END
+NewsFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jeux-steam/!svn/ver/2/trunk/lib/filter/doctrine/NewsFormFilter.class.php
+END
+UserHasServerFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jeux-steam/!svn/ver/2/trunk/lib/filter/doctrine/UserHasServerFormFilter.class.php
+END
+BaseFormFilterDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jeux-steam/!svn/ver/2/trunk/lib/filter/doctrine/BaseFormFilterDoctrine.class.php
+END
+NewsVersionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jeux-steam/!svn/ver/2/trunk/lib/filter/doctrine/NewsVersionFormFilter.class.php
+END
+StatsServerFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jeux-steam/!svn/ver/250/trunk/lib/filter/doctrine/StatsServerFormFilter.class.php
+END
+ServerFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jeux-steam/!svn/ver/186/trunk/lib/filter/doctrine/ServerFormFilter.class.php
+END
+ServerHistoryFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jeux-steam/!svn/ver/2/trunk/lib/filter/doctrine/ServerHistoryFormFilter.class.php
+END
+StatsGameFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jeux-steam/!svn/ver/252/trunk/lib/filter/doctrine/StatsGameFormFilter.class.php
+END
+StatsGspFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jeux-steam/!svn/ver/345/trunk/lib/filter/doctrine/StatsGspFormFilter.class.php
+END
+GameFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jeux-steam/!svn/ver/2/trunk/lib/filter/doctrine/GameFormFilter.class.php
+END

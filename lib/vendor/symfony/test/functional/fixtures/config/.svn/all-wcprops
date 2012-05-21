@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/config/propel.ini
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/config/databases.yml
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/config/ProjectConfiguration.class.php
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/config/filters.yml
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/config/properties.ini
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/config/view.yml
+END

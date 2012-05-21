@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/plugins/sfConfigPlugin/modules/sfConfigPlugin/config
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/plugins/sfConfigPlugin/modules/sfConfigPlugin/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/plugins/sfConfigPlugin/modules/sfConfigPlugin/config/view.yml
+END

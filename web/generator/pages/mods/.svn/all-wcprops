@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods
+END
+sitemap_xml_tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods/sitemap_xml_tpl.xml
+END
+sitemap_ror_tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods/sitemap_ror_tpl.xml
+END
+sitemap_tpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods/sitemap_tpl.html
+END
+mobile.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods/mobile.inc.php
+END
+sitemap.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods/sitemap.xsl
+END
+sitemap_index_tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods/sitemap_index_tpl.xml
+END
+sitemap_rss1_tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods/sitemap_rss1_tpl.xml
+END
+sitemap_base_tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods/sitemap_base_tpl.xml
+END
+sitemap_mob_tpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jeux-steam/!svn/ver/335/trunk/web/generator/pages/mods/sitemap_mob_tpl.xml
+END

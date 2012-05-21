@@ -1,0 +1,46 @@
+9
+
+dir
+346
+http://usvn.pwnedbox.fr/svn/jeux-steam/trunk/plugins/sfDoctrineGuardPlugin/modules
+http://usvn.pwnedbox.fr/svn/jeux-steam
+
+
+
+2010-09-29T07:53:27.274176Z
+2
+seb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3a1e472a-d766-46f8-aa1d-b1a269654fe8
+
+sfGuardForgotPassword
+dir
+
+sfGuardRegister
+dir
+
+sfGuardPermission
+dir
+
+sfGuardGroup
+dir
+
+sfGuardUser
+dir
+
+sfGuardAuth
+dir
+

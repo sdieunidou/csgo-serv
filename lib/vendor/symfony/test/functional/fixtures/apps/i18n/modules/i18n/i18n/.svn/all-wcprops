@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/apps/i18n/modules/i18n/i18n
+END
+custom.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/apps/i18n/modules/i18n/i18n/custom.fr.xml
+END
+other.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/apps/i18n/modules/i18n/i18n/other.fr.xml
+END
+messages.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/apps/i18n/modules/i18n/i18n/messages.fr.xml
+END

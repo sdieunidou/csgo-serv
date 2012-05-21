@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node
+END
+AdjacencyList.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node/AdjacencyList.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node/Exception.php
+END
+NestedSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node/NestedSet.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node/Interface.php
+END
+MaterializedPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Node/MaterializedPath.php
+END

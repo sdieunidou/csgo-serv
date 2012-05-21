@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter
+END
+Mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter/Mock.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter/Interface.php
+END
+Statement.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter/Statement.php
+END
+Oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter/Oracle.php
+END

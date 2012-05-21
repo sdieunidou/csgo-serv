@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/other/fixtures/task
+END
+myPluginTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/other/fixtures/task/myPluginTask.class.php
+END
+zTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/other/fixtures/task/zTask.class.php
+END
+aTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/other/fixtures/task/aTask.class.php
+END

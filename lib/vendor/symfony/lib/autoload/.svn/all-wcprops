@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/autoload
+END
+sfCoreAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/autoload/sfCoreAutoload.class.php
+END
+sfSimpleAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/autoload/sfSimpleAutoload.class.php
+END
+sfAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/autoload/sfAutoload.class.php
+END
+sfAutoloadAgain.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/autoload/sfAutoloadAgain.class.php
+END

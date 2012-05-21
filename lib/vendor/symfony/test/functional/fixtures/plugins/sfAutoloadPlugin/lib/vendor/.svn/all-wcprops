@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/vendor
+END
+ExcludedFromAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/vendor/ExcludedFromAutoload.class.php
+END

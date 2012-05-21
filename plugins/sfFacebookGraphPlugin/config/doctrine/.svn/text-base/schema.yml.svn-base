@@ -1,0 +1,46 @@
+# sfFacebookGraphPlugin
+# Profile class
+
+sfFacebookGraphUserProfile:
+  columns:
+    user_id:
+      type: integer
+      unique: true
+      # this seems to cause problems on imports
+      #primary: true
+      notnull: true
+    full_name: varchar(255)
+    user_set_name:
+      type: boolean
+      default: true
+      notnull: true
+    facebook_uid:
+      type: integer(20)
+      unique: true
+    access_token: varchar(255)
+    user_set_email_address:
+      type: boolean
+      default: true
+      notnull: true
+    facebook_only_account:
+      type: boolean
+      default: false
+      notnull: true
+  relations:
+    sfGuardUser:
+      alias: User
+      foreignType: one
+      foreignAlias: Profile
+      local: user_id
+      foreign: id
+      onDelete: CASCADE
+
+<?php if (sfConfig::get('app_facebook_modify_sf_guard_user', false)): ?>
+sfGuardUser:
+  columns:
+    username:
+      type: string(255)
+    email_address:
+      unique: true
+      notnull: false
+<?php endif; ?>

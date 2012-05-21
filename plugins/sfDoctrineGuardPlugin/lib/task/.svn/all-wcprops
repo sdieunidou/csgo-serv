@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/task
+END
+sfGuardChangePasswordTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardChangePasswordTask.class.php
+END
+sfGuardPromoteSuperAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardPromoteSuperAdminTask.class.php
+END
+sfGuardAddPermissionTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardAddPermissionTask.class.php
+END
+sfGuardCreateUserTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardCreateUserTask.class.php
+END
+sfGuardAddGroupTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/task/sfGuardAddGroupTask.class.php
+END

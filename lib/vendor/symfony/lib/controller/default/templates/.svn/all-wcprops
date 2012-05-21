@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates
+END
+error404Success.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/error404Success.php
+END
+moduleSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/moduleSuccess.php
+END
+secureSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/secureSuccess.php
+END
+disabledSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/disabledSuccess.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/indexSuccess.php
+END
+loginSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/loginSuccess.php
+END
+defaultLayout.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/controller/default/templates/defaultLayout.php
+END

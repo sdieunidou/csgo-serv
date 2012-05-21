@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/config
+END
+sfAutoloadPluginConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/config/sfAutoloadPluginConfiguration.class.php
+END
+NotInLib.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/config/NotInLib.class.php
+END
+autoload.yml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/functional/fixtures/plugins/sfAutoloadPlugin/config/autoload.yml
+END

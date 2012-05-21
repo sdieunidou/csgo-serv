@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts
+END
+fieldsConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/fieldsConfiguration.php
+END
+processFormAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/processFormAction.php
+END
+deleteAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/deleteAction.php
+END
+createAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/createAction.php
+END
+indexAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/indexAction.php
+END
+filtersAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/filtersAction.php
+END
+configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/configuration.php
+END
+sortingConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/sortingConfiguration.php
+END
+batchAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/batchAction.php
+END
+updateAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/updateAction.php
+END
+paginationConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/paginationConfiguration.php
+END
+sortingAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/sortingAction.php
+END
+filterAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/filterAction.php
+END
+editAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/editAction.php
+END
+paginationAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/paginationAction.php
+END
+newAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/newAction.php
+END
+actionsConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts/actionsConfiguration.php
+END

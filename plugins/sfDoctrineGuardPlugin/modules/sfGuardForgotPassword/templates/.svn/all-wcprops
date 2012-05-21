@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/templates
+END
+_new_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/templates/_new_password.php
+END
+changeSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/templates/changeSuccess.php
+END
+_send_request.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/templates/_send_request.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/modules/sfGuardForgotPassword/templates/indexSuccess.php
+END

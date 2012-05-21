@@ -1,0 +1,106 @@
+sfGuardUser:
+  columns:
+    steam_id:         { type: string(50) }
+
+Game:
+  tableName: steam_game
+  actAs:
+    Sluggable:
+      unique: true
+      fields: [title]
+      canUpdate: false
+  columns:
+    name:              { type: string(255), notnull: true }
+    class:             { type: string(255), notnull: true }
+    is_active:         { type: boolean, default: 0 }
+
+News:
+  tableName: steam_news
+  actAs:
+    Timestampable: ~
+    Sluggable:
+      fields: [title]
+      canUpdate: false
+  columns:
+    title:             { type: string(255), notnull: true }
+    content:           { type: clob, notnull: true }
+    publish_at:        { type: timestamp }
+
+UserHasServer:
+  tableName: steam_user_has_server
+  actAs:
+    Timestampable: ~
+  columns:
+    user_id:           { type: integer, notnull: true }
+    server_id:         { type: integer, notnull: true }
+  relations:
+    Server:
+      local: server_id
+    sfGuardUser:
+      local: user_id
+
+Server:
+  tableName: steam_server
+  actAs:
+    Timestampable: ~
+  columns:
+    ip:                { type: string(15), notnull: true }
+    port:              { type: integer(5), notnull: true }
+    isp:               { type: string(255), notnull: true }
+    country:           { type: string(255), notnull: true }
+    map:               { type: string(255), notnull: true }
+    hostname:          { type: string(255), notnull: true }
+    players:           { type: integer(2), notnull: true }
+    maxplayer:         { type: integer(3), notnull: true }
+    is_online:         { type: boolean, default: 0 }
+    password:          { type: boolean, default: 0 }
+    is_banned:         { type: boolean, default: 0 }
+    last_online:       { type: timestamp, notnull: true }
+    game_id:           { type: integer, notnull: true }
+    user_id:           { type: integer }
+    slug:              { type: string(255) }
+  relations:
+    Game:
+      local: game_id
+    sfGuardUser:
+      local: user_id
+    Player:
+      refClass: ServerHasPlayer
+      local: server_id
+      foreign: player_id
+
+ServerHistory:
+  tableName: steam_server_history
+  actAs:
+    Timestampable:
+      updated:
+        disabled: true
+  columns:
+    server_id:        { type: integer, notnull: true }
+    players:          { type: integer(2), notnull: true }
+  relations:
+    Server:
+      local: server_id
+
+StatsServer:
+  tableName: steam_stats_server
+  actAs:
+    Timestampable:
+      updated:
+        disabled: true
+  columns:
+    game_id:         { type: integer, notnull: true }
+    total_server:    { type: integer, notnull: true }
+  relations:
+    Game:
+      local: game_id
+
+StatsGsp:
+  tableName: steam_stats_gsp
+  actAs:
+    Timestampable:
+      updated:
+        disabled: true
+  columns:
+    name:            { type: string(255), notnull: true }
+    total:    { type: integer, notnull: true }

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/behavior
+END
+SfPropelBehaviorI18nTranslation.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorI18nTranslation.php
+END
+SfPropelBehaviorI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorI18n.php
+END
+SfPropelBehaviorSymfony.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorSymfony.php
+END
+SfPropelBehaviorSymfonyBehaviors.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorSymfonyBehaviors.php
+END
+SfPropelBehaviorTimestampable.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorTimestampable.php
+END
+SfPropelBehaviorBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/lib/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorBase.php
+END

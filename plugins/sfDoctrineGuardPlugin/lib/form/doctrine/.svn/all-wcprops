@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/form/doctrine
+END
+PluginsfGuardPermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/PluginsfGuardPermissionForm.class.php
+END
+sfGuardChangeUserPasswordForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardChangeUserPasswordForm.class.php
+END
+sfGuardFormSignin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardFormSignin.class.php
+END
+sfGuardUserAdminForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardUserAdminForm.class.php
+END
+PluginsfGuardGroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/PluginsfGuardGroupForm.class.php
+END
+PluginsfGuardUserForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/PluginsfGuardUserForm.class.php
+END
+sfGuardRegisterForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jeux-steam/!svn/ver/2/trunk/plugins/sfDoctrineGuardPlugin/lib/form/doctrine/sfGuardRegisterForm.class.php
+END

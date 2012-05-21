@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/unit/log
+END
+sfLoggerWrapperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/unit/log/sfLoggerWrapperTest.php
+END
+sfConsoleLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/unit/log/sfConsoleLoggerTest.php
+END
+sfAggregateLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/unit/log/sfAggregateLoggerTest.php
+END
+sfVarLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/unit/log/sfVarLoggerTest.php
+END
+sfStreamLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/unit/log/sfStreamLoggerTest.php
+END
+sfFileLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/unit/log/sfFileLoggerTest.php
+END
+sfLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jeux-steam/!svn/ver/2/trunk/lib/vendor/symfony/test/unit/log/sfLoggerTest.php
+END

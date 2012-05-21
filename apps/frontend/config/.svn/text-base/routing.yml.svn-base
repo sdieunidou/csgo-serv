@@ -1,0 +1,100 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+statistics:
+  url: /statistiques
+  param: { module: statistics, action: server }
+
+partenaire_send:
+  url: /devenir-partenaire/send
+  param: { module: contact, action: send }
+  requirements:
+    sf_method: [post]
+
+partenaire:
+  url: /devenir-partenaire
+  param: { module: contact, action: index }
+  requirements:
+    sf_method: [get]
+
+server_monitor:
+  url: /moniteur/:id
+  class:   sfDoctrineRoute
+  options:
+    model: Server
+    type:  object
+  param: { module: server, action: monitor }
+
+server_signature:
+  url: /signature/:id.png
+  class:   sfDoctrineRoute
+  options:
+    model: Server
+    type:  object
+  param: { module: server, action: signature }
+
+server_view:
+  url: /status/:id/:slug
+  class:   sfDoctrineRoute
+  options:
+    model: Server
+    type:  object
+  param: { module: server, action: view }
+
+server_find_page:
+  url: /recherche/:page
+  class: sfRequestRoute
+  param: { module: server, action: find }
+  requirements:
+    sf_method: [get]
+
+server_find:
+  url: /recherche
+  class: sfRequestRoute
+  param: { module: server, action: find }
+  requirements:
+    sf_method: [post]
+
+server_list:
+  url: /serveur
+  param: { module: server, action: list }
+
+server_list_page:
+  url: /serveur/page/:page
+  param: { module: server, action: list }
+
+server_list_game_page:
+  url: /serveur/:slug/:page
+  class:   sfDoctrineRoute
+  options:
+    model: Game
+    type:  object
+    method_for_query: retrieveActive
+  param: { module: server, action: listGame }
+
+server_list_game:
+  url: /serveur/:slug
+  class:   sfDoctrineRoute
+  options:
+    model: Game
+    type:  object
+    method_for_query: retrieveActive
+  param: { module: server, action: listGame }
+
+sf_guard_signin:
+  url:   /login
+  param: { module: sfGuardAuth, action: signin }
+
+sf_guard_signout:
+  url:   /logout
+  param: { module: sfGuardAuth, action: signout }
+
+sf_guard_password:
+  url:   /request_password
+  param: { module: sfGuardAuth, action: password }
+
+# default rules
+homepage:
+  url:   /
+  param: { module: server, action: list }
+

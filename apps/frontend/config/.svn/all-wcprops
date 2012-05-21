@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/jeux-steam/!svn/ver/319/trunk/apps/frontend/config
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/jeux-steam/!svn/ver/13/trunk/apps/frontend/config/factories.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/jeux-steam/!svn/ver/13/trunk/apps/frontend/config/app.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jeux-steam/!svn/ver/2/trunk/apps/frontend/config/settings.yml
+END
+frontendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jeux-steam/!svn/ver/2/trunk/apps/frontend/config/frontendConfiguration.class.php
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/jeux-steam/!svn/ver/2/trunk/apps/frontend/config/cache.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jeux-steam/!svn/ver/319/trunk/apps/frontend/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jeux-steam/!svn/ver/2/trunk/apps/frontend/config/security.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jeux-steam/!svn/ver/2/trunk/apps/frontend/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/jeux-steam/!svn/ver/347/trunk/apps/frontend/config/view.yml
+END
