@@ -33,8 +33,9 @@ class Master
   const FILTER_DEDICATED = "\x5C\x74\x79\x70\x65\x5C\x64"; //"\type\d
   const FILTER_SECURE = "\x5C\x73\x65\x63\x75\x72\x65\x5C\x31"; //"\secure\1
   const FILTER_GAME_CSTRIKE = "\x5C\x67\x61\x6D\x65\x64\x69\x72\x5C\x63\x73\x74\x72\x69\x6B\x65"; //"\gamedir\cstrike
-  const FILTER_GAME_DODS = "\x5c\x67\x61\x6d\x65\x64\x69\x72\x5c\x64\x6f\x64"; //"\gamedir\dod
-  const FILTER_GAME_TF2 = "\x5c\x67\x61\x6d\x65\x64\x69\x72\x5c\x74\x66"; //"\gamedir\dod
+  const FILTER_GAME_DODS    = "\x5c\x67\x61\x6d\x65\x64\x69\x72\x5c\x64\x6f\x64"; //"\gamedir\dod
+  const FILTER_GAME_CSGO    = "\x5c\x67\x61\x6d\x65\x64\x69\x72\x5c\x63\x73\x67\x6F"; //"\gamedir\csgo
+  const FILTER_GAME_TF2     = "\x5c\x67\x61\x6d\x65\x64\x69\x72\x5c\x74\x66"; //"\gamedir\tf2
   const FILTER_MAP_DE_DUST2 = "\x5C\x6D\x61\x70\x5C\x64\x65\x5F\x64\x75\x73\x74\x32"; //"\map\de_dust2
   const FILTER_LINUX = "\x5C\x6C\x69\x6E\x75\x78\x5C\x31"; //"\linux\1
   const FILTER_NOT_EMPTY = "\x5C\x65\x6D\x70\x74\x79\x5C\x31"; //"\empty\1
@@ -54,6 +55,10 @@ class Master
     {
       case 'css':
         $filter_game = self::FILTER_GAME_CSTRIKE;
+        break;
+    
+      case 'csgo':
+        $filter_game = self::FILTER_GAME_CSGO;
         break;
 
       case 'dods':

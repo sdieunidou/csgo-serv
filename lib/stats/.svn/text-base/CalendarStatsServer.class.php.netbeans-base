@@ -154,4 +154,4 @@ class CalendarStatsServer
     return json_encode($list_data_tmp);
   }
 }
-
+?>
