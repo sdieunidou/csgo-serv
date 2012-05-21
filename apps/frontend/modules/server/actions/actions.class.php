@@ -150,7 +150,7 @@ class serverActions extends sfActions
 
     $results = $gq->requestData();
 
-    $image = imagecreatefrompng(sprintf('/var/www/jeux-steam.fr/web/images/signature/%s.png', $this->server->getGame()->getClass()));
+    $image = imagecreatefrompng(sprintf('/home/csgo-serv/web/images/signature/%s.png', $this->server->getGame()->getClass()));
 
     $textcolor = imagecolorallocate($image, 0, 0, 0);
 
