@@ -6,8 +6,8 @@ default:
     content-type: text/html
 
   metas:
-    title:        "CSGO Serveur - Serveurs Counter-Strike: GO"
-    description:  "CSGO Serv est la plus grand liste de serveurs counter-strike: go / css. Ne cherchez plus vos serveurs !"
+    title:        Steam - Serveur moniteur, css, dods, tf2, ...
+    description:  Moteur de recherche de serveur de jeux, monitoring de vos serveurs css, dods, tf2, ...
     keywords:     jeux, steam
     language:     fr
     robots:       index, follow
