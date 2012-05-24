@@ -36,7 +36,7 @@
     <h2>Liste des serveurs</h2>
 
     <p>
-      Il y a actuellement <?php echo $pager->getNbResults() ?> serveurs de jeux online.
+      Il y a actuellement <?php echo $pager->getNbResults() ?> serveurs de jeux online sur le jeu <strong>counter-strike: global offensive</strong>.
     </p>
 
     <?php include_partial('table', array('pager' => $pager, 'route' => 'server_list_page')) ?>
