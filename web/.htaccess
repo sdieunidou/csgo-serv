@@ -3,16 +3,20 @@ Options +FollowSymLinks +ExecCGI
 <IfModule mod_rewrite.c>
   RewriteEngine On
 
-  # uncomment the following line, if you are having trouble
-  # getting no_script_name to work
-  #RewriteBase /
+  #redirect index.php to root
+  RewriteCond %{THE_REQUEST} ^.*/index.php
+  RewriteRule ^(.*)index.php$ http://www.csgo-serv.fr/$1 [R=301,L]
 
-  # we skip all files with .something
-  #RewriteCond %{REQUEST_URI} \..+$
-  #RewriteCond %{REQUEST_URI} !\.html$
-  #RewriteRule .* - [L]
+  #force www on url
+  RewriteCond %{HTTP_HOST} ^csgo-serv\.fr$ [NC]
+  RewriteRule ^(.*) http://www.csgo-serv.fr/$1  [QSA,L,R=301]
 
-  # we check if the .html version is here (caching)
+  #prevent access to _dev.php bootstraps
+  RewriteCond %{HTTP_HOST} ^www\.csgo-serv\.fr$ [NC]
+  RewriteCond %{THE_REQUEST} ^.*_dev.php
+  RewriteRule ^(.*) http://www.csgo-serv.fr/ [QSA,L,R=301]
+
+  #we check if the .html version is here (caching)
   RewriteRule ^$ index.html [QSA]
   RewriteRule ^([^.]+)$ $1.html [QSA]
   RewriteCond %{REQUEST_FILENAME} !-f
@@ -20,3 +24,4 @@ Options +FollowSymLinks +ExecCGI
   # no, so we redirect to our front web controller
   RewriteRule ^(.*)$ index.php [QSA,L]
 </IfModule>
+
