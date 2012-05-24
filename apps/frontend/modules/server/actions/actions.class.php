@@ -20,7 +20,8 @@ class serverActions extends sfActions
     $this->form = new ServerFormFilter();
 
     $this->pager = new sfDoctrinePager('Server', sfConfig::get('app_server_list', 50) );
-    $this->pager->setQuery(ServerTable::getInstance()->queryList());
+    //$this->pager->setQuery(ServerTable::getInstance()->queryList());
+    $this->pager->setQuery(ServerTable::getInstance()->queryList(2));
     $this->pager->setPage($request->getParameter('page', 1));
     $this->pager->init();
 
