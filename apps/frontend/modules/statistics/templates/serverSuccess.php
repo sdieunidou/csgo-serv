@@ -31,7 +31,7 @@ $(document).ready(function() {
          x: -20 //center
       },
       subtitle: {
-         text: 'Source: CSGo-Serv.fr',
+         text: 'Source: CSGO-Serv.fr',
          x: -20
       },
       xAxis: {
@@ -105,7 +105,7 @@ $(document).ready(function() {
       },
       tooltip: {
          formatter: function() {
-                   return "<b>"+ this.series.name +"</b><br/>"+ this.y +" serveurs";
+                   return "<b>"+ this.series.name +" </b><br/>"+ this.y +" serveurs";
          }
       },
       legend: {
