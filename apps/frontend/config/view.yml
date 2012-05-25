@@ -6,7 +6,7 @@ default:
     content-type: text/html
 
   metas:
-    title:        "Serveur CSGO - Serveurs Counter-Strike: GO"
+    title:        "Serveur CS: GO - Serveurs Counter-Strike: GO"
     description:  "CSGO Serv est la plus grand liste de serveurs counter-strike: go / css. Ne cherchez plus vos serveurs !"
     keywords:     jeux, steam
     language:     fr
